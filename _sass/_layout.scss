@@ -245,6 +245,20 @@ div#features-sample {
 }
 
 /**
+ * Roadmap page
+ */
+
+dl.roadmap_legend {
+  dt {
+    margin-bottom: 0;
+    float: left;
+  }
+  dd {
+    margin-bottom: 0;
+  }
+}
+
+/**
  * Docs
  */
 div#toc {
